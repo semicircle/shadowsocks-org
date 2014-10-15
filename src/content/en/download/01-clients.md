@@ -12,10 +12,10 @@
       <li>shadowsocks-go:
         <ul>
           <li>
-            <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-win32-1.1.1.zip">win32-1.1.1.zip</a>
+            <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-win32-1.1.3.zip">win32-1.1.3.zip</a>
           </li>
           <li>
-            <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-win64-1.1.1.zip">win64-1.1.1.zip</a>
+            <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-win64-1.1.3.zip">win64-1.1.3.zip</a>
           </li>
         </ul>
       </li>  
@@ -32,7 +32,7 @@
     <p><strong>Command-line Client</strong></p>
     <ul>
       <li>
-        shadowsocks-go: <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-mac64-1.1.1.gz">mac64-1.1.1.gz</a>
+        shadowsocks-go: <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-mac64-1.1.3.gz">mac64-1.1.3.gz</a>
       </li>  
     </ul>
   </div>
@@ -43,10 +43,7 @@
       <li>shadowsocks-go:
         <ul>
           <li>
-            <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-linux32-1.1.1.gz">linux32-1.1.1.gz</a>
-          </li>
-          <li>
-            <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-linux64-1.1.1.zip">linux64-1.1.1.gz</a>
+            <a href="http://dl.chenyufei.info/shadowsocks/shadowsocks-local-linux32-1.1.3.gz">linux32-1.1.3.gz</a>
           </li>
         </ul>
       </li>
